@@ -1,0 +1,40 @@
+.cont {
+    position: relative;
+    background-size:auto;
+    background-color:rgb(16, 55, 89);
+    background-position: center;
+    padding: 10px;
+    height: 80vh;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 12px 12px 10px 12px rgba(33, 98, 72, 0.69);
+    flex-direction: column;
+    opacity: 0.8;
+    
+}
+.Container {
+    background-image: url('../../Utils/Fondo\ videogames\ 3.avif');
+    background-repeat: repeat;
+    padding: 20px;
+    position:relative;
+    
+  }
+  .titulo {
+    background-color: #1f1e1ea8;
+    color: white;
+  }
+  .titulos {
+    color: black;
+    background-color: rgb(113, 153, 201);
+  }
+  .input {
+    width: 300px;
+  }
+  .errors {
+    color: red;
+    background-color: white;
+  }

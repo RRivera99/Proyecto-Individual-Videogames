@@ -1,0 +1,27 @@
+.landingDiv {
+    background-image: url('../../Utils/Fondo\ videogames\ 3.avif');
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: rigth 5rem;
+    background-clip: content-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.titulo{
+    color: white;
+    font-family: 'zrnic', sans-serif;
+    font-weight: lighter;
+    font-size: 3rem;
+    display:table-row-group;
+    justify-content:space-between;
+    background-color: #1f1e1ea8;
+    padding: 20px;
+    border-radius: 20px;
+}
+.button {
+    padding: 10px;
+}

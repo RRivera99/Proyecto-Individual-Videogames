@@ -1,0 +1,23 @@
+.navbar{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(16, 55, 89); 
+    border-radius: 20px;
+
+}
+.image img{
+    width: 10rem;
+    padding: 8px;
+    border-radius: 15px;
+    /*object-fit: fill; */
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 10rem;
+}
+.buttons1 {
+    color: white;
+} 

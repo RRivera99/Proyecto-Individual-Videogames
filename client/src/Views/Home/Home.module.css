@@ -1,0 +1,28 @@
+
+
+.contFyO {
+    position: relative;
+    background-color: rgb(16, 55, 89);
+    padding: 10px;
+    height: 23vh;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    flex-direction: row;
+    opacity: 0.8;
+    
+}
+.Container {
+    background-image: url('../../Utils/Fondo\ videogames\ 3.avif');
+    background-repeat: repeat;
+    padding: 20px;
+    position:relative;
+    
+  }
+.titulos{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}

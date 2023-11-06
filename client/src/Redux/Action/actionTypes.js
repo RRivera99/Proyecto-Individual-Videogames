@@ -1,0 +1,9 @@
+export const GET_VIDEOGAMES = "GET_VIDEOGAMES"
+export const GET_GENRES = "GET_GENRES"
+export const PAGE = 'PAGE'
+export const ORDER_AZ = 'ORDER_AZ'
+export const ORDER_RATING = 'ORDER_RATING'
+export const FILTER_GENRES = 'FILTER_GENRES'
+export const FILTER_ORIGIN = 'FILTER_ORIGIN'
+export const RESET = 'RESET'
+export const GET_VIDEOGAME_NAME = 'GET_VIDEOGAME_NAME'

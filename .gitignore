@@ -40,7 +40,7 @@ build/Release
 
 node_modules
 /node_modules/
-
+/node_modules
 # Dependency directories
 node_modules/
 
